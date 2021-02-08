@@ -1,0 +1,8 @@
+Venezuela:
+Oriana 80
+Italia:
+Tony 60
+Colombia:
+Carlos 90
+USA:
+Miguel 50
