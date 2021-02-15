@@ -1,4 +1,5 @@
-archivo = open('Data.txt')
+# archivo = open('./Archivos-Ejemplos/Data.txt')
+archivo = open('./Data.txt')
 
 lineas = archivo.readlines()
 auxiliar = []
